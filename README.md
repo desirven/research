@@ -18,9 +18,9 @@ for Higher Text-Image Correspondence in Text-to-Image Synthesis </br>
 ## Done (옮겨오는 중)
 | Name                                                                                           | Keyword    | Publish   | arxiv | FullName |
 |------------------------------------------------------------------------------------------------|------------|-----------|-------|----------|
-| GLIDE                                                                                          | Inpainting | ICML 2021 | 21.12 |          |
-| DALEE2                                                                                         |            |           |       |          |
-| DALLE3                                                                                         |            |           |       |          |
+| [GLIDE](./Generative/GLIDE/GLIED.md)                                                           | Inpainting | ICML 2021 | 21.12 |          |
+| [DALLE2](./Generative/DALLE2/DALLE2.md)                                                        |            |           |       |          |
+| [DALLE3]()                                                                                     |            |           |       |          |
 | Blended Diffusion                                                                              |            |           |       |          |
 | Blended Latente Diffusion                                                                      |            |           |       |          |
 | text2live                                                                                      |            |           |       |          |
