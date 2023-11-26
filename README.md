@@ -16,61 +16,61 @@ for Higher Text-Image Correspondence in Text-to-Image Synthesis </br>
 
 ------
 ## Done (옮겨오는 중)
-| Name                                                                                           | Keyword    | Publish   | arxiv | FullName |
-|------------------------------------------------------------------------------------------------|------------|-----------|-------|----------|
-| [GLIDE](./Generative/GLIDE/GLIED.md)                                                           | Inpainting | ICML 2021 | 21.12 |          |
-| [DALLE2](./Generative/DALLE2/DALLE2.md)                                                        |            |           |       |          |
-| [DALLE3]()                                                                                     |            |           |       |          |
-| Blended Diffusion                                                                              |            |           |       |          |
-| Blended Latente Diffusion                                                                      |            |           |       |          |
-| text2live                                                                                      |            |           |       |          |
-| zoom-to-inpaint                                                                                |            |           |       |          |
-| Differential Diffusion                                                                         |            |           |       |          |
-| All are Worth Words: A ViT Backbone for Diffusion Models                                       |            |           |       |          |
-| Dreambooth                                                                                     |            |           |       |          |
-| Vocabulary-free Image Classification                                                           |            |           |       |          |   
-| PhotoSwap                                                                                      |            |           |       |          |
-| ControlNet                                                                                     |            |           |       |          |
-| HyperNetworks                                                                                  |            |           |       |          |
-| Prompt-to-Prompt                                                                               |            |           |       |          |
-| EDICT                                                                                          |            |           |       |          |
-| Null-text Inversion                                                                            |            |           |       |          |
-| Fader Networks                                                                                 |            |           |       |          |
-| MasaCtrl                                                                                       |            |           |       |          |
-| On Distillation of Guided Diffusion Models                                                     |            |           |       |          |
-| Classifier-Free Diffusoin Guidance                                                             |            |           |       |          |
-| GLIP                                                                                           |            |           |       |          |
-| Generate Anything Anywhere in Any Scene                                                        |            |           |       |          |
-| Semantic Object Accuracy for Generative Text-to-Image Synthesis                                |            |           |       |          |
-| GLIGEN                                                                                         |            |           |       |          |
-| JourneyDB                                                                                      |            |           |       |          |
-| Drag Your GAN                                                                                  |            |           |       |          |
-| DragDiffusion                                                                                  |            |           |       |          |
-| DragonDiffusion                                                                                |            |           |       |          |
-| CLIP know about a red circle?                                                                  |            |           |       |          |
-| ReVersion                                                                                      |            |           |       |          |
-| BERT score                                                                                     |            |           |       |          |
-| Evaluating and Improving Factuality in Multimodal Abstractive Summarization                    |            |           |       |          |
-| LDM                                                                                            |            |           |       |          |
-| StableRep                                                                                      |            |           |       |          |
-| ImageBrush                                                                                     |            |           |       |          |
-| GLIP v2                                                                                        |            |           |       |          |
-| Generative Modeling by Estimating Gradients of the Data Distribution                           |            |           |       |          |
-| LoRA                                                                                           |            |           |       |          |
-| IMAGEN</br>Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding      |            |           |       |          |
-| An Edit Friendly DDPM Noise Space: Inversion and Manipulations                                 |            |           |       |          |
-| Unifying Diffusion Models' Latent Space, with Applications to CycleDiffusion and Guidance      |            |           |       |          |
-| AnyDoor                                                                                        |            |           |       |          |
-| LEDITS                                                                                         |            |           |       |          |
-| SEGA                                                                                           |            |           |       |          |
-| Collage Diffusion                                                                              |            |           |       |          |
-| DiffEdit                                                                                       |            |           |       |          |
-| Paint by Word                                                                                  |            |           |       |          |
-| Improving Sample Quality of Diffusion Models Using Self-Attention Guidance                     |            |           |       |          |
-| DALLE-2 is Seeing Double: Flaws in Word-to-Concept Mapping in Text2Image Models                |            |           |       |          |
-| CoCa                                                                                           |            |           |       |          |
-| T2I-CompBench: A Comprehensive Benchmark for Open-world Compositional Text-to-image Generation |            |           |       |          |
-| Clipscore                                                                                      |            |           |       |          |
-| SmartBrush                                                                                     |            |           |       |          |
-| ILVR                                                                                           |            |           |       |          |
-|                                                                                                |            |           |       |          |
+| Name                                                                                           | Keyword    | Publish   | arxiv  | ... |
+|------------------------------------------------------------------------------------------------|------------|-----------|--------|-----|
+| [GLIDE](./Generative/GLIDE/GLIED.md)                                                           | Inpainting | ICML 2021 | 21.12  |     |
+| [DALLE2](./Generative/DALLE2/DALLE2.md)                                                        | Text2Image |           | 22.04  |     |
+| [DALLE3](./Generative/DALLE3/DALLE3.md)                                                        | Text2Image |           | 23.09? |     |
+| Blended Diffusion                                                                              |            |           |        |     |
+| Blended Latente Diffusion                                                                      |            |           |        |     |
+| text2live                                                                                      |            |           |        |     |
+| zoom-to-inpaint                                                                                |            |           |        |     |
+| Differential Diffusion                                                                         |            |           |        |     |
+| All are Worth Words: A ViT Backbone for Diffusion Models                                       |            |           |        |     |
+| Dreambooth                                                                                     |            |           |        |     |
+| Vocabulary-free Image Classification                                                           |            |           |        |     |   
+| PhotoSwap                                                                                      |            |           |        |     |
+| ControlNet                                                                                     |            |           |        |     |
+| HyperNetworks                                                                                  |            |           |        |     |
+| Prompt-to-Prompt                                                                               |            |           |        |     |
+| EDICT                                                                                          |            |           |        |     |
+| Null-text Inversion                                                                            |            |           |        |     |
+| Fader Networks                                                                                 |            |           |        |     |
+| MasaCtrl                                                                                       |            |           |        |     |
+| On Distillation of Guided Diffusion Models                                                     |            |           |        |     |
+| Classifier-Free Diffusoin Guidance                                                             |            |           |        |     |
+| GLIP                                                                                           |            |           |        |     |
+| Generate Anything Anywhere in Any Scene                                                        |            |           |        |     |
+| Semantic Object Accuracy for Generative Text-to-Image Synthesis                                |            |           |        |     |
+| GLIGEN                                                                                         |            |           |        |     |
+| JourneyDB                                                                                      |            |           |        |     |
+| Drag Your GAN                                                                                  |            |           |        |     |
+| DragDiffusion                                                                                  |            |           |        |     |
+| DragonDiffusion                                                                                |            |           |        |     |
+| CLIP know about a red circle?                                                                  |            |           |        |     |
+| ReVersion                                                                                      |            |           |        |     |
+| BERT score                                                                                     |            |           |        |     |
+| Evaluating and Improving Factuality in Multimodal Abstractive Summarization                    |            |           |        |     |
+| LDM                                                                                            |            |           |        |     |
+| StableRep                                                                                      |            |           |        |     |
+| ImageBrush                                                                                     |            |           |        |     |
+| GLIP v2                                                                                        |            |           |        |     |
+| Generative Modeling by Estimating Gradients of the Data Distribution                           |            |           |        |     |
+| LoRA                                                                                           |            |           |        |     |
+| IMAGEN</br>Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding      |            |           |        |     |
+| An Edit Friendly DDPM Noise Space: Inversion and Manipulations                                 |            |           |        |     |
+| Unifying Diffusion Models' Latent Space, with Applications to CycleDiffusion and Guidance      |            |           |        |     |
+| AnyDoor                                                                                        |            |           |        |     |
+| LEDITS                                                                                         |            |           |        |     |
+| SEGA                                                                                           |            |           |        |     |
+| Collage Diffusion                                                                              |            |           |        |     |
+| DiffEdit                                                                                       |            |           |        |     |
+| Paint by Word                                                                                  |            |           |        |     |
+| Improving Sample Quality of Diffusion Models Using Self-Attention Guidance                     |            |           |        |     |
+| DALLE-2 is Seeing Double: Flaws in Word-to-Concept Mapping in Text2Image Models                |            |           |        |     |
+| CoCa                                                                                           |            |           |        |     |
+| T2I-CompBench: A Comprehensive Benchmark for Open-world Compositional Text-to-image Generation |            |           |        |     |
+| Clipscore                                                                                      |            |           |        |     |
+| SmartBrush                                                                                     |            |           |        |     |
+| ILVR                                                                                           |            |           |        |     |
+|                                                                                                |            |           |        |     |
