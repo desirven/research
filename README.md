@@ -25,7 +25,7 @@ for Higher Text-Image Correspondence in Text-to-Image Synthesis </br>
 | [Bledned_Latent_Diffusion](./Generative/Bledned_Latent_Diffusion/Bledned_Latent_Diffusion.md) | Inpainting     | ACM 2022   | 22.06  |    |
 | [text2live](./Generative/text2live/text2live.md)                                              | Image Blending | ECCV 2022  | 22.04  |    |
 | [zoom-to-inpaint](./Generative/zoom-to-inpaint/zoom-to-inpatint.md)                           | Inpainting     | CVPRW 2022 | 20.12  |    |
-| Differential Diffusion                                                                        |                |            |        |    |
+| [Differential Diffusion: Giving Each Pixel Its Strength]                                      | Inpainting     |            | 23.06  |    |
 | All are Worth Words: A ViT Backbone for Diffusion Models                                      |                |            |        |    |
 | Dreambooth                                                                                    |                |            |        |    |
 | Vocabulary-free Image Classification                                                          |                |            |        |    |   
