@@ -26,7 +26,7 @@
 > * Versatile_Diffusion_Text_Images_and_Variations_All_in_One_Diffusion
 
 ------
-## Done (옮겨오는 중)
+## Done (JIRA에서 여기로 이사중)
 | Name                                                                                                                    | Keyword        | Publish    | arxiv  | ... |
 |-------------------------------------------------------------------------------------------------------------------------|----------------|------------|--------|----|
 | [GLIDE](./Generative/GLIDE/GLIED.md)                                                                                    | Inpainting     | ICML 2021  | 21.12  |    |
