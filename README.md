@@ -1,5 +1,5 @@
 ## 매일 읽는 논문을 기록하기 위한 레포
-### contribution 위주로 정리, 틀린 내용 피드백 대환영
+### contribution 위주로 정리
 
 ## TODO
 > vq diffusion (https://arxiv.org/abs/2111.14822) </br>
