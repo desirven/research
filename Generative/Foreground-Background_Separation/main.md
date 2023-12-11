@@ -44,7 +44,7 @@ LDM을 사용하고 있기 때문에 마스크의 해상도가 64x64이다.<br/>
 이 영향으로 마스크가 객체의 sharp edges보다 크게 만들어진다.<br/>
 인페인팅할때는 충분하겠지만, 객체만 분리하기에는 문제가 있다.<br/>
 이를 해결하기 위해서 모델을 fine-tuning한다.
-1. M_pre를 기준으로 확실한 배경만 "a photo of a background"로 학습한다.<br/>![img_8.png](img_8.png)
+1. M_pre를 기준으로 배경만 "a photo of a background"로 학습한다.<br/>![img_8.png](img_8.png)
 2. 동시에 전체 이미지에 대해서 "a photo of a {object}"로 학습한다.<br/>
 
 이 후 원본 이미지에서 M_pre 영역을 백그라운드로 인페인팅한 결과를 사용해서 최종 마스크를 만든다.  <br/>
