@@ -9,7 +9,6 @@
 > GPT-V (https://cdn.openai.com/papers/GPTV_System_Card.pdf)  </br>
 
 > ICCV 2023 </br>
-> * MagicFusion
 > * Prompt Tuning Inversion for Text-driven Image Editing Using Diffusion Models 
 > * Unleashing Text-to-Image Diffusion Models for Visual Perception
 > * A_Latent_Space_of_Stochastic_Diffusion_Models_for_Zero-Shot_Image
