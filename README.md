@@ -10,7 +10,6 @@
 
 > ICCV 2023 </br>
 > * Prompt Tuning Inversion for Text-driven Image Editing Using Diffusion Models 
-> * Unleashing Text-to-Image Diffusion Models for Visual Perception
 > * A_Latent_Space_of_Stochastic_Diffusion_Models_for_Zero-Shot_Image
 > * BoxDiff_Text-to-Image_Synthesis_with_Training-Free_Box-Constrained_Diffusion
 > * DiffuMask_Synthesizing_Images_with_Pixel-level_Annotations_for_Semantic_Segmentation_Using
@@ -36,8 +35,9 @@
 | [zoom-to-inpaint](./Generative/zoom-to-inpaint/zoom-to-inpatint.md)                                                         | Inpainting       | CVPRW 2022 | 20.12  |    |
 | [Differential Diffusion: Giving Each Pixel Its Strength](./Generative/Differential_Diffusion/Differential_ddifusion.md)     | Inpainting       |            | 23.06  |    |
 | [All are Worth Words: A ViT Backbone for Diffusion Models](./Generative/All_are_Worth_Words/All_are_Worth_Words.md)         | Diffusion        | CVPR 2022  | 22.09  |    |
-| [Foreground-Background Separation through Concept Distillation from](./Generative/Foreground-Background_Separation/main.md) | Segmentation     | ICCV 2023  | 22.12  |     |
-| [MagicFusion: Boosting Text-to-Image Generation Performance by Fusing Diffusion Models](./Generative/MagicFusion/main.md)   | Diffion Ensemble | ICCV 2023  | 23.03  |     |
+| [Foreground-Background Separation through Concept Distillation from](./Generative/Foreground-Background_Separation/main.md) | Segmentation     | ICCV 2023  | 22.12  |    |
+| [MagicFusion: Boosting Text-to-Image Generation Performance by Fusing Diffusion Models](./Generative/MagicFusion/main.md)   | Diffion Ensemble | ICCV 2023  | 23.03  |    |
+| [Unleashing Text-to-Image Diffusion Models for Visual Perception](.Generative/Visual_Perception_Diffusion/main.md)          | Segmentation     | ICCV 2023  | 23.03  |     |
 | Dreambooth                                                                                                                  |                  |            |        |    |
 | Vocabulary-free Image Classification                                                                                        |                  |            |        |    |   
 | PhotoSwap                                                                                                                   |                  |            |        |    |
