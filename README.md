@@ -37,7 +37,8 @@
 | [All are Worth Words: A ViT Backbone for Diffusion Models](./Generative/All_are_Worth_Words/All_are_Worth_Words.md)         | Diffusion        | CVPR 2022  | 22.09  |    |
 | [Foreground-Background Separation through Concept Distillation from](./Generative/Foreground-Background_Separation/main.md) | Segmentation     | ICCV 2023  | 22.12  |    |
 | [MagicFusion: Boosting Text-to-Image Generation Performance by Fusing Diffusion Models](./Generative/MagicFusion/main.md)   | Diffion Ensemble | ICCV 2023  | 23.03  |    |
-| [Unleashing Text-to-Image Diffusion Models for Visual Perception](.Generative/Visual_Perception_Diffusion/main.md)          | Segmentation     | ICCV 2023  | 23.03  |     |
+| [Unleashing Text-to-Image Diffusion Models for Visual Perception](./Generative/Visual_Perception_Diffusion/main.md)         | Segmentation     | ICCV 2023  | 23.03  |     |
+| [Null-text Inversion for Editing Real Images using Guided Diffusion Models](./Generative/Null-text_Inversion/main.md)       | Inversion        | CVPR 2023  | 22.11  |     |
 | Dreambooth                                                                                                                  |                  |            |        |    |
 | Vocabulary-free Image Classification                                                                                        |                  |            |        |    |   
 | PhotoSwap                                                                                                                   |                  |            |        |    |
