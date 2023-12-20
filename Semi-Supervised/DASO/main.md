@@ -20,8 +20,9 @@ c0~c9으로 갈수록 데이터 양이 적은 클래스이다.
   > 내 생각…                   
   Similarity Classifier로 protonet과 USADTM을 언급하고 있다.    
   protonet은 contrastive, USADTM은 triplet loss를 사용하고 있다.      
-  이 경우 major class가 positive로 계산될 때보다 negative pair로 계산되는 횟수가 더 많다.     
-  이로 인해서 major class에 대한 similarity를 낮게 보도록 편향되어 학습이 된 것 같다.
+  minor class에 데이터들로 프로토타입을 계산할때 평균내기 때문에 (1/n) 각 데이터 포인트가 영향을 주는 가중치가 커진다.
+  그만큼 각 데이터가 프로토타입과의 similarity score가 비교적 클 것이다.
+  이로인해 minor class에 대해 over confidence하게 모델이 학습되는 것 같다.
 
 
 그래서 이 논문에서는 이 두가지를 잘 혼합하는 방향으로 연구를 진행한다.
