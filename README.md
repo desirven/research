@@ -40,6 +40,7 @@
 | [Unleashing Text-to-Image Diffusion Models for Visual Perception](./Generative/Visual_Perception_Diffusion/main.md)                | Segmentation     | ICCV 2023  | 23.03  |     |
 | [Null-text Inversion for Editing Real Images using Guided Diffusion Models](./Generative/Null-text_Inversion/main.md)              | Inversion        | CVPR 2023  | 22.11  |     |
 | [DASO: Distribution-Aware Semantics-Oriented Pseudo-label for Imbalanced Semi-Supervised Learning](./Semi-Supervised/DASO/main.md) | SSL, CLS         | CVPR 2022  | 21.06  |     |
+| [DiffusinoCLIP: Text-Guided Diffusion Models for Robust Image Manipulation](./DiffusionCLIP/main.md)                               | Inversion        | CVPR 2022  | 21.10  |     |
 | Dreambooth                                                                                                                         |                  |            |        |    |
 | Vocabulary-free Image Classification                                                                                               |                  |            |        |    |   
 | PhotoSwap                                                                                                                          |                  |            |        |    |
