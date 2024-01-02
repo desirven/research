@@ -9,7 +9,6 @@
 > GPT-V (https://cdn.openai.com/papers/GPTV_System_Card.pdf)  </br>
 
 > ICCV 2023 </br>
-> * Prompt Tuning Inversion for Text-driven Image Editing Using Diffusion Models 
 > * A_Latent_Space_of_Stochastic_Diffusion_Models_for_Zero-Shot_Image
 > * BoxDiff_Text-to-Image_Synthesis_with_Training-Free_Box-Constrained_Diffusion
 > * DiffuMask_Synthesizing_Images_with_Pixel-level_Annotations_for_Semantic_Segmentation_Using
