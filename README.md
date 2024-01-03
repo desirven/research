@@ -41,6 +41,7 @@
 | [DASO: Distribution-Aware Semantics-Oriented Pseudo-label for Imbalanced Semi-Supervised Learning](./Semi-Supervised/DASO/main.md) | SSL, CLS         | CVPR 2022  | 21.06  |     |
 | [DiffusinoCLIP: Text-Guided Diffusion Models for Robust Image Manipulation](./DiffusionCLIP/main.md)                               | Inversion        | CVPR 2022  | 21.10  |     |
 | [Prompt Tuning Inversion for Text-Driven Image Editing Using Diffusion Models](./Prompt_Tuning_Inversion/main.md)                  | Inversion        | ICCV 2023  | 23.05  |     |
+| [Editing Implicit Assumptions in Text-to-Image Diffusion Models](./Editing_Implicit_Assumptions/main.md)                           | Model Editing    | ICCV 2023  | 23.03  |     |
 | Dreambooth                                                                                                                         |                  |            |        |    |
 | Vocabulary-free Image Classification                                                                                               |                  |            |        |    |   
 | PhotoSwap                                                                                                                          |                  |            |        |    |
