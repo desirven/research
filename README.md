@@ -45,6 +45,7 @@
 | [DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation](./Generative/DiffusionCLIP/main.md)                               | Inversion                | CVPR 2022  | 21.10  | DDIM Inversion |
 | [MAG-Edit: Localized Image Editing in Complex Scenarios via Mask-Based Attention-Adjusted Guidance](./Generative/MAG-Edit/main.md)            | Inpainting               |            | 23.12  |                |
 | [DreamInpainter: Text-Guided Subject-Driven Image Inpainting with Diffusion Models](./Generative/DreamInpainter/main.md)                      | Inpainting, Personalized |            | 23.12  |                |
+| [Attend-and-Excite: Attention-Based Semantic Guidance for Text-to-Image Diffusion Models](./Generative/Attend-and-Excite/main.md)             | Text align               | ACM 2023   | 23.01  |                |
 | Dreambooth                                                                                                                                    |                          |            |        |                |
 | Vocabulary-free Image Classification                                                                                                          |                          |            |        |                |   
 | PhotoSwap                                                                                                                                     |                          |            |        |                |
