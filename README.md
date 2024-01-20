@@ -47,7 +47,7 @@
 | [DreamInpainter: Text-Guided Subject-Driven Image Inpainting with Diffusion Models](./Generative/DreamInpainter/main.md)                      | Inpainting, Personalized |            | 23.12  |                |
 | [Attend-and-Excite: Attention-Based Semantic Guidance for Text-to-Image Diffusion Models](./Generative/Attend-and-Excite/main.md)             | Text align               | ACM 2023   | 23.01  |                |
 | [DALL-E for Detection: Language-driven Compositional Image Synthesis for Object Detection](./Generative/DALL-E_for_Detection/main.md)         | Synthetic data for OD    |            | 22.06  |                |
-| Dreambooth                                                                                                                                    |                          |            |        |                |
+| [Dreambooth](./Generative/DreamBooth/main.md)                                                                                                 | Personalized             | CVPR 2022  | 22.08  |                |
 | Vocabulary-free Image Classification                                                                                                          |                          |            |        |                |   
 | PhotoSwap                                                                                                                                     |                          |            |        |                |
 | ControlNet                                                                                                                                    |                          |            |        |                |
