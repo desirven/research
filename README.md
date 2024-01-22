@@ -48,7 +48,8 @@
 | [Attend-and-Excite: Attention-Based Semantic Guidance for Text-to-Image Diffusion Models](./Generative/Attend-and-Excite/main.md)             | Text align               | ACM 2023   | 23.01  |                |
 | [DALL-E for Detection: Language-driven Compositional Image Synthesis for Object Detection](./Generative/DALL-E_for_Detection/main.md)         | Synthetic data for OD    |            | 22.06  |                |
 | [Dreambooth](./Generative/DreamBooth/main.md)                                                                                                 | Personalized             | CVPR 2022  | 22.08  |                |
-| [DiffusionClassifier](./Generative/DiffusionClassifier/main.md)                                                                               | Classification           |            | 23.03  |                |
+| [DiffusionClassifier](./Generative/DiffusionClassifier/main.md)                                                                               | Classification           | ICCV 2023  | 23.03  |                |
+| [X-Paste: Revisiting Scalable Copy-Paste for Instance Segmentation using CLIP and StableDiffusion](./Generative/X-Paste/main.md)              | Synthetic data for SG    | ICML 2022  | 22.12  |                |
 | PhotoSwap                                                                                                                                     |                          |            |        |                |
 | ControlNet                                                                                                                                    |                          |            |        |                |
 | HyperNetworks                                                                                                                                 |                          |            |        |                |
