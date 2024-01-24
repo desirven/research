@@ -51,8 +51,8 @@
 | [DiffusionClassifier](./Generative/DiffusionClassifier/main.md)                                                                               | Classification           | ICCV 2023  | 23.03  |                |
 | [X-Paste: Revisiting Scalable Copy-Paste for Instance Segmentation using CLIP and StableDiffusion](./Generative/X-Paste/main.md)              | Synthetic data for SG    | ICML 2022  | 22.12  |                |
 | [DiffusionEngine: Diffusion Model is Scalable Data Engine for Object Detection](./Generative/DiffusionEngine/main.md)                         | Synthetic data for OD    |            | 23.09  |                | 
-| PhotoSwap                                                                                                                                     |                          |            |        |                |
-| ControlNet                                                                                                                                    |                          |            |        |                |
+| [PHOTOSWAP: Personalized Subject Swapping in Images](./Generative/PhotoSwap/main.md)                                                          | Personalized             | NIPS 2023  | 23.05  | 내용 부실함         |
+| [Adding Conditional Control to Text-to-Image Diffusion Models](./Generative/ControlNet/main.md)                                               | Fintuning Diffusion      | ICCV 2023  | 32.02  | 내용 부실함          |
 | HyperNetworks                                                                                                                                 |                          |            |        |                |
 | Prompt-to-Prompt                                                                                                                              |                          |            |        |                |
 | EDICT                                                                                                                                         |                          |            |        |                |
