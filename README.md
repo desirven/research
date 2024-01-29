@@ -35,7 +35,7 @@
 | [Differential Diffusion: Giving Each Pixel Its Strength](./Generative/Differential_Diffusion/Differential_ddifusion.md)                       | Inpainting               |            | 23.06  |                  |
 | [All are Worth Words: A ViT Backbone for Diffusion Models](./Generative/All_are_Worth_Words/All_are_Worth_Words.md)                           | Diffusion                | CVPR 2022  | 22.09  |                  |
 | [Foreground-Background Separation through Concept Distillation from](./Generative/Foreground-Background_Separation/main.md)                   | Segmentation             | ICCV 2023  | 22.12  |                  |
-| [MagicFusion: Boosting Text-to-Image Generation Performance by Fusing Diffusion Models](./Generative/MagicFusion/main.md)                     | Diffion Ensemble         | ICCV 2023  | 23.03  |                  |
+| [MagicFusion: Boosting Text-to-Image Generation Performance by Fusing Diffusion Models](./Generative/MagicFusion/main.md)                     | Diffusion Ensemble       | ICCV 2023  | 23.03  |                  |
 | [Unleashing Text-to-Image Diffusion Models for Visual Perception](./Generative/Visual_Perception_Diffusion/main.md)                           | Segmentation             | ICCV 2023  | 23.03  |                  |
 | [Null-text Inversion for Editing Real Images using Guided Diffusion Models](./Generative/Null-text_Inversion/main.md)                         | Inversion                | CVPR 2023  | 22.11  |                  |
 | [DASO: Distribution-Aware Semantics-Oriented Pseudo-label for Imbalanced Semi-Supervised Learning](./Generative/Semi-Supervised/DASO/main.md) | SSL, CLS                 | CVPR 2022  | 21.06  |                  |
@@ -55,6 +55,7 @@
 | [Adding Conditional Control to Text-to-Image Diffusion Models](./Generative/ControlNet/main.md)                                               | Fintuning Diffusion      | ICCV 2023  | 23.02  | 내용 부실함           |
 | [Estimation of Non-Normalized Statistical Models by Score Matching](./Generative/ScoreMatching/main.md)                                       | Score-based              | MLR 2005   |        |                  |
 | [Shape-Guided Diffuion with Inside-Outside Attention](./Generative/Shape-Guided_Diffusion/main.md)                                            | Inpainting               |            | 22.12  |                  |
+| [Compositional Visual Generation with Composable Diffusion Models](./Generative/ComposableDiffusion/main.md)                                  | Compose condition        | ECCV 2022  | 22.06  |                  |
 | [SmartMask: Context Aware High-Fidelity Mask Generation for Fine-grained Object Insertion and Layout Control](./Generative/SmartMask/main.md) | Inpainting               |            | 23.12  | 작성중, 논문이 매우 불친절함 |
 | HyperNetworks                                                                                                                                 |                          |            |        |                  |
 | Prompt-to-Prompt                                                                                                                              |                          |            |        |                  |
