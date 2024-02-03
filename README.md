@@ -57,6 +57,7 @@
 | [Shape-Guided Diffuion with Inside-Outside Attention](./Generative/Shape-Guided_Diffusion/main.md)                                            | Inpainting               |            | 22.12  |                  |
 | [Compositional Visual Generation with Composable Diffusion Models](./Generative/ComposableDiffusion/main.md)                                  | Compose condition        | ECCV 2022  | 22.06  |                  |
 | [SmartMask: Context Aware High-Fidelity Mask Generation for Fine-grained Object Insertion and Layout Control](./Generative/SmartMask/main.md) | Inpainting               |            | 23.12  | 작성중, 논문이 매우 불친절함 |
+| [Guided Image Synthesis via Initial Image Editing in Diffusion Model](./Generative/Guided_Initial_Image_Editing/main.md)                      | Image Editing            | ACMMM 2023 | 23.05  | Initial Noise    |
 | HyperNetworks                                                                                                                                 |                          |            |        |                  |
 | Prompt-to-Prompt                                                                                                                              |                          |            |        |                  |
 | EDICT                                                                                                                                         |                          |            |        |                  |
