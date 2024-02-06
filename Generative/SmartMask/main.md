@@ -26,23 +26,17 @@ Inpainting에서 text prompt는 객체의 의미를, mask는 위치와 크기를
 결국 다음 순번의 객체 마스크가 포함된 마스크를 예측하도록 학습한다.  
 > 역시 adobe라 그런지 코드도 없고 중요한 설명을 숨겼다.  
 > 치사하게도 condition이 3개나 되는데 어떻게 들어가는 건지에 대한 설명이 하나도 없다...  
-> 심지 어 그 흔한 "The code will be available soon"이 적힌 레포지토리도 없다...  
   
-> 상식적인 선에서 예상해보자면  
-> ebedding된 feature는 기존 inpainting처럼 concat했거나 ControlNet으로 들어갔을 것 같고  
-> 텍스트는 [bos] 토큰같은 것 사이에 두고 concat해서 cross-attention에 들어가지 않았을까 싶다...  
+> Related works에 살짝 언급된 instruct pix2pix 모델이 baseline인 것 같다.  
+> ebedding된 feature는 기존 inpainting처럼 concat하는 방식을 사용 
+> 텍스트는 compasable Diffusion에서 사용한 CFG composition하는 방법을 사용  
   
 ### Data Augmentation for Precise Mask Control  
 ![img_2.png](img_2.png)  
 G_obj 유저가 입력으로 준 마스크이다.  
 해당 영역을 기준으로 객체에 최종 마스크를 예측하도록 학습한다.  
 a = 0.7이라고 한다.  
-> 진짜 너무 불친절하다.  
-> G가 입력 마스크라고 하는데 마스크 내부가 1이고 외부가 0이다. 그래야 말이 된다.  
   
-> 그리고 G를 따로 임베딩 해주지 않는 것을 보니 일반적인 Inpainting방법인 것이 맞는 것 같다.  
-> 위 overview에서 encoder는 LDM의 encoder가 맞는 것 같고 S_k와 G를 Inpainting처럼 concat해서 넣어주는 것 같다.  
-   
 ![img_3.png](img_3.png)  
   
 4가지 케이스에 대해서 시나리오를 세우고 학습한다. 
@@ -52,12 +46,30 @@ a = 0.7이라고 한다.
     GT를 기준으로 bbox를 만든다.
 3. coarse spatial guidance  
     gaussian blob을 사용한다.  
-    gaussian blob은 찾아보니 그림처럼 점점 그라데이션되는 형태이다.   
+   ![img_4.png](img_4.png)   
 4. scribble  
-    그냥 사용했다고 한다. 학습용 마스크를 어떻게 만들었는지 설명이 없다.  
-    확장했다고 하는데, 어느정도 파라미터로 확장했는지 설명해줬으면 좋을텐데...
+    그냥 사용했다고 한다. 학습용은 gt를 확장했다고 한다.
   
 이를 통해 추론시 어떤 형태의 유저 입력 마스크가 들어와도 대응할 수 있다고 한다. 
   
 ### Global Planning for Multi-step Inference  
+![img_5.png](img_5.png)  
+LLaVA를 사용했다고 하는데, 이거 학습하는 거 보려면 너무 많이 가야한다..  
+간단히 말하자면 현재 상태의 마스크 이미지와 input prompt, 그리고 현재까지 마스크를 만든 객체들의 텍스트를 입력으로 하고,  
+출력으로 다음 생성할 객체의 텍스트를 얻는다.  
+이후 그 객체에 대한 마스크를 예측한다.  
+
+## Experiments  
+![img_6.png](img_6.png)  
+* Local-FID는 reference가 FID제안하는 논문인데 크롭해서 FID 계산한 것 같다.  
+* Norm. L2-BG는 배경 유지가 잘되나를 확인하기 위해서 배경을 L2로 계산한다.  
+
+![img_7.png](img_7.png)  
+* Inpainting의 한계점으로 지적하고 있다. 사람이 생성되긴하지만 묘하게 비율이 이상한데,  
+    그래서 이 모델처럼 디테일한 마스크를 예측하도록 해야한다는 주장이다.
+
+![img_8.png](img_8.png)  
+* 다른 모델들과 비교한 것이다. HQSAM은 box로 생성하고 segmentation mask를 따로 만든다.  
+
+![img_9.png](img_9.png)
 
