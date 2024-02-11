@@ -59,6 +59,7 @@
 | [SmartMask: Context Aware High-Fidelity Mask Generation for Fine-grained Object Insertion and Layout Control](./Generative/SmartMask/main.md) | Inpainting               |            | 23.12  | |
 | [Guided Image Synthesis via Initial Image Editing in Diffusion Model](./Generative/Guided_Initial_Image_Editing/main.md)                      | Image Editing            | ACMMM 2023 | 23.05  | Initial Noise    |
 | [Pretraining is All You Need for Image-to-Image Translation](./Generative/Pretraining_for_I2I_Translation/main.md)                            | I2I translation          |            | 22.05  |                  |
+| [InstructPix2Pix: Learning to Follow Image Editing Instructions](./Generative/InstructPix2Pix/main.md)                                        | I2I translation          | CVPR 2022  | 22.11  |                  |
 | HyperNetworks                                                                                                                                 |                          |            |        |                  |
 | Prompt-to-Prompt                                                                                                                              |                          |            |        |                  |
 | EDICT                                                                                                                                         |                          |            |        |                  |
