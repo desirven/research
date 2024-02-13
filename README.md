@@ -60,6 +60,8 @@
 | [Guided Image Synthesis via Initial Image Editing in Diffusion Model](./Generative/Guided_Initial_Image_Editing/main.md)                      | Image Editing            | ACMMM 2023 | 23.05  | Initial Noise    |
 | [Pretraining is All You Need for Image-to-Image Translation](./Generative/Pretraining_for_I2I_Translation/main.md)                            | I2I translation          |            | 22.05  |                  |
 | [InstructPix2Pix: Learning to Follow Image Editing Instructions](./Generative/InstructPix2Pix/main.md)                                        | I2I translation          | CVPR 2022  | 22.11  |                  |
+| [Estimation of Non-Normalized Statistical Models by Score Matching](./Generative/ScoreMaching/main.md)                                        | scroe matching           | MLR 2005   |                  |
+| [Sliced Score Matching: A Scalable Approach to Density and Score Estimation](./Generative/SlicedScoreMatching/main.md)                        | score matching           | UAI 2019   | 19.05  |                  |
 | HyperNetworks                                                                                                                                 |                          |            |        |                  |
 | Prompt-to-Prompt                                                                                                                              |                          |            |        |                  |
 | EDICT                                                                                                                                         |                          |            |        |                  |
