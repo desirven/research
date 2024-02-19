@@ -36,8 +36,11 @@ arxiv 23.05
 즉, inversion할 때는 CFG를 굳이 쓸 필요가 없다는 것이다.  
 이게 경험적으로 알려진 DDIM inversion 할 때에 CFG를 안써도 잘 작동한다는 관찰에 대한 정당화로 간주할 수 있다.  
 Null-text inversion에서 uncondition 결과를 열심히 최적화하지만 사실은 condition 결과와 같아지도록 최적화한 것이라고 설명한다.  
-> 그럼 Figure1에서 reconstruct 성능이 더 좋다는 것은 뭐지...
-> 식 자체는 DDIM inversion이랑 똑같은 것 같은데...  
+![img_14.png](img_14.png)  
+
+헷갈려서 다시 정리하면 z0 -> zT는 다 똑같이 DDIM inversion을 사용  
+zT -> z0로 다시 돌아올 떄 DDIM은 "" 프롬프트를, NTI은 optimize 파라미터를, NPI는 그런거 필요없이 입력 프롬프트만 써도 된다는 것이다.  
+
 
 ![img_13.png](img_13.png)  
 하지만 가정1은 너무 이상적이다. 그래서 직접 비교하였다.  
