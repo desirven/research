@@ -64,6 +64,7 @@
 | [Sliced Score Matching: A Scalable Approach to Density and Score Estimation](./Generative/SlicedScoreMatching/main.md)                          | score matching           | UAI 2019   | 19.05  |                  |
 | [Negative-prompt Inversion: Fast Image Inversion for Editing with Text-guided Diffusion Models](./Generative/Negative-Prompt_Inversion/main.md) | Inversion                |            | 23.05  |                  |
 | [InstructDiffusion: A Generalist Modeling Interface for Vision Tasks](./Generatvie/InstructDiffusion/main.md)                                   | Instruct based AGI       |            | 23.09  |                  |
+| [PNP INVERSION: BOOSTING DIFFUSION-BASED EDITING WITH 3 LINES OF CODE](./Generative/PnP_Inversion/main.md)                                      | Inversion                | ICLR 2024  | 23.10  |                  |
 | HyperNetworks                                                                                                                                   |                          |            |        |                  |
 | Prompt-to-Prompt                                                                                                                                |                          |            |        |                  |
 | EDICT                                                                                                                                           |                          |            |        |                  |
