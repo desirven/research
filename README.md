@@ -1,26 +1,6 @@
 ## 매일 읽는 논문을 기록하기 위한 레포
 ### contribution 위주로 정리
 
-## TODO
-> vq diffusion (https://arxiv.org/abs/2111.14822) </br>
-> Improved vq diffusion (https://arxiv.org/abs/2205.16007) </br>
-> Resolution-robust Large Mask Inpainting with Fourier Convolutions </br>
-> TF-ICON </br>
-> GPT-V (https://cdn.openai.com/papers/GPTV_System_Card.pdf)  </br>
-
-> ICCV 2023 </br>
-> * A_Latent_Space_of_Stochastic_Diffusion_Models_for_Zero-Shot_Image
-> * BoxDiff_Text-to-Image_Synthesis_with_Training-Free_Box-Constrained_Diffusion
-> * DiffuMask_Synthesizing_Images_with_Pixel-level_Annotations_for_Semantic_Segmentation_Using
-> * Diffusion_Models_as_Masked_Autoencoders
-> * DiffusionDet_Diffusion_Model_for_Object_Detection
-> * Discriminative_Class_Tokens_for_Text-to-Image_Diffusion_Models
-> * Editing_Implicit_Assumptions_in_Text-to-Image_Diffusion_Models
-> * End-to-End_Diffusion_Latent_Optimization_Improves_Classifier_Guidance
-> * Improving Sample Quality of Diffusion Models Using Self-Attention Guidance
-> * Localizing_Object-Level_Shape_Variations_with_Text-to-Image_Diffusion_Models
-> * Versatile_Diffusion_Text_Images_and_Variations_All_in_One_Diffusion
-
 ------
 ## Done (JIRA에서 여기로 이사중)
 | Name                                                                                                                                            | Keyword                  | Publish    | arxiv | ...              |
