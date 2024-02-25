@@ -62,7 +62,7 @@ csize = (horiginal, woriginal) 에 대해서 각 요소를 Fourier feature encod
 ***
 ## Putting everything together
 1. Autoencoder 추가 학습  
-2. 256x256 이미지를 2048 배치 크기로 60만 step 학습 (대략 300에폭)  
+2. 256x256 이미지를 2048 배치 크기로 60만 step 학습 (대략 300이터)  
 3. 512x512 이미지 20만 step 학습   
 4. multi-aspect training을 사용하요 1024x1024 학습
 
