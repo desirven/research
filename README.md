@@ -47,6 +47,7 @@
 | [PNP INVERSION: BOOSTING DIFFUSION-BASED EDITING WITH 3 LINES OF CODE](./Generative/PnP_Inversion/main.md)                                      | Inversion                | ICLR 2024  | 23.10  |                  |
 | [SDXL: Improving latent Diffusion models for high_resolution image synthesis](./Generative/SDXL/main.md)                                        | Stable Diffusion         | ICLR 2024  | 23.07  |                  | 
 | [Interpolating between Images with Diffusion Models](./Generative/Interpolating_with_Diffusion/main.md)                                         | Interpolation            |            | 23.07  |                  |
+| [PIXART-α: FAST TRAINING OF DIFFUSION TRANSFORMER FOR PHOTOREALISTIC TEXT-TO-IMAGE SYNTHESIS](./Generative/PizArt-a/main.md)                    | Efficient                | ICLR 2024  | 23.10  |                  |
 | HyperNetworks                                                                                                                                   |                          |            |        |                  |
 | Prompt-to-Prompt                                                                                                                                |                          |            |        |                  |
 | EDICT                                                                                                                                           |                          |            |        |                  |
