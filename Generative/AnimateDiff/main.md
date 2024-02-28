@@ -28,5 +28,8 @@ ICLR 2024 / arxiv 23.07
 인퍼런스할 때는 알파=0 으로 이 레이어를 사용하지 않는다.  
 
 ### Learn Motion Priors with Motion Module  
+비디오를 처리하기 위해서는 2차원으로 모델링된 Diffusion의 차원을 확장시키고 시간 축에 따를 효율적인 정보교환이 가능해야 한다.  
+* Network Inflation  
+> Video Diffusion
 
 
