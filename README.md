@@ -49,6 +49,7 @@
 | [Interpolating between Images with Diffusion Models](./Generative/Interpolating_with_Diffusion/main.md)                                         | Interpolation            |            | 23.07  |    |
 | [PIXART-α: FAST TRAINING OF DIFFUSION TRANSFORMER FOR PHOTOREALISTIC TEXT-TO-IMAGE SYNTHESIS](./Generative/PixArt-a/main.md)                    | Efficient                | ICLR 2024  | 23.10  |    |
 | [IMAGENHUB: STANDARDIZING THE EVALUATION OF CONDITIONAL IMAGE GENERATION MODELS](.Generative/ImagenHub/main.md)                                 | Benchmark                | ICLR 2024  | 23.10  |     |
+| [Self-Attention with Relative Position Representations](./Generative/Relative_position_embedding/main.md)                                       | Transformer              | NAACL 2018 | 18.03  |     |  
 | HyperNetworks                                                                                                                                   |                          |            |        |    |
 | Prompt-to-Prompt                                                                                                                                |                          |            |        |    |
 | EDICT                                                                                                                                           |                          |            |        |    |
