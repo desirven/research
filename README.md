@@ -51,6 +51,7 @@
 | [IMAGENHUB: STANDARDIZING THE EVALUATION OF CONDITIONAL IMAGE GENERATION MODELS](.Generative/ImagenHub/main.md)                                 | Benchmark                | ICLR 2024  | 23.10  |     |
 | [Self-Attention with Relative Position Representations](./Generative/Relative_position_embedding/main.md)                                       | Transformer              | NAACL 2018 | 18.03  |     |  
 | [Video Diffusion Models](./Generative/VideoDiffusion/main.md)                                                                                   | Video Generation         | NIPS 2022  | 22.04  |     |
+| [AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning](./Generative/AnimateDiff/main.md)               | Video Generation         | ICLR 2024  | 23.07  |     |
 | HyperNetworks                                                                                                                                   |                          |            |        |    |
 | Prompt-to-Prompt                                                                                                                                |                          |            |        |    |
 | EDICT                                                                                                                                           |                          |            |        |    |
