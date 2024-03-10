@@ -54,6 +54,7 @@
 | [AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning](./Generative/AnimateDiff/main.md)               | Video Generation         | ICLR 2024  | 23.07  |     |
 | [Inversion-based_StyleTransfer](./Generative/Inversion-based Style Transfer with Diffusion Models/main.md)                                      | Style Transfer           | CVPR 2022  | 22.11  |     |
 | [Rein: Harnessing Visionss Foundation Models](./DomainGeneralization/Rein/main.md)                                                              | DGSS                     | CVPR 2024  | 23.12  |     |
+| [StyleDiffusion: Controllable Disentangled Style Transfer via Diffusion Models](./Generative/StyleDiffusion/main.md)                            | Style Transfer           | ICCV 2023  | 23.08  |     |
 | HyperNetworks                                                                                                                                   |                          |            |        |    |
 | Prompt-to-Prompt                                                                                                                                |                          |            |        |    |
 | EDICT                                                                                                                                           |                          |            |        |    |
