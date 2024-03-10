@@ -48,13 +48,13 @@
 | [SDXL: Improving latent Diffusion models for high_resolution image synthesis](./Generative/SDXL/main.md)                                        | Stable Diffusion         | ICLR 2024  | 23.07  |    | 
 | [Interpolating between Images with Diffusion Models](./Generative/Interpolating_with_Diffusion/main.md)                                         | Interpolation            |            | 23.07  |    |
 | [PIXART-α: FAST TRAINING OF DIFFUSION TRANSFORMER FOR PHOTOREALISTIC TEXT-TO-IMAGE SYNTHESIS](./Generative/PixArt-a/main.md)                    | Efficient                | ICLR 2024  | 23.10  |    |
-| [IMAGENHUB: STANDARDIZING THE EVALUATION OF CONDITIONAL IMAGE GENERATION MODELS](.Generative/ImagenHub/main.md)                                 | Benchmark                | ICLR 2024  | 23.10  |     |
-| [Self-Attention with Relative Position Representations](./Generative/Relative_position_embedding/main.md)                                       | Transformer              | NAACL 2018 | 18.03  |     |  
-| [Video Diffusion Models](./Generative/VideoDiffusion/main.md)                                                                                   | Video Generation         | NIPS 2022  | 22.04  |     |
-| [AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning](./Generative/AnimateDiff/main.md)               | Video Generation         | ICLR 2024  | 23.07  |     |
-| [Inversion-based_StyleTransfer](./Generative/Inversion-based Style Transfer with Diffusion Models/main.md)                                      | Style Transfer           | CVPR 2022  | 22.11  |     |
-| [Rein: Harnessing Visionss Foundation Models](./DomainGeneralization/Rein/main.md)                                                              | DGSS                     | CVPR 2024  | 23.12  |     |
-| [StyleDiffusion: Controllable Disentangled Style Transfer via Diffusion Models](./Generative/StyleDiffusion/main.md)                            | Style Transfer           | ICCV 2023  | 23.08  |     |
+| [IMAGENHUB: STANDARDIZING THE EVALUATION OF CONDITIONAL IMAGE GENERATION MODELS](.Generative/ImagenHub/main.md)                                 | Benchmark                | ICLR 2024  | 23.10  |    |
+| [Self-Attention with Relative Position Representations](./Generative/Relative_position_embedding/main.md)                                       | Transformer              | NAACL 2018 | 18.03  |    |  
+| [Video Diffusion Models](./Generative/VideoDiffusion/main.md)                                                                                   | Video Generation         | NIPS 2022  | 22.04  |    |
+| [AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning](./Generative/AnimateDiff/main.md)               | Video Generation         | ICLR 2024  | 23.07  |    |
+| [Inversion-based_StyleTransfer](./Generative/Inversion-based Style Transfer with Diffusion Models/main.md)                                      | Style Transfer           | CVPR 2022  | 22.11  |    |
+| [Rein: Harnessing Visionss Foundation Models](./DomainGeneralization/Rein/main.md)                                                              | DGSS                     | CVPR 2024  | 23.12  |    |
+| [StyleDiffusion: Controllable Disentangled Style Transfer via Diffusion Models](./Generative/StyleDiffusion/main.md)                            | Style Transfer           | ICCV 2023  | 23.08  |    |
 | HyperNetworks                                                                                                                                   |                          |            |        |    |
 | Prompt-to-Prompt                                                                                                                                |                          |            |        |    |
 | EDICT                                                                                                                                           |                          |            |        |    |
