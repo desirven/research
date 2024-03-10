@@ -52,7 +52,7 @@
 | [Self-Attention with Relative Position Representations](./Generative/Relative_position_embedding/main.md)                                       | Transformer              | NAACL 2018 | 18.03  |    |  
 | [Video Diffusion Models](./Generative/VideoDiffusion/main.md)                                                                                   | Video Generation         | NIPS 2022  | 22.04  |    |
 | [AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning](./Generative/AnimateDiff/main.md)               | Video Generation         | ICLR 2024  | 23.07  |    |
-| [Inversion-based_StyleTransfer](./Generative/Inversion-based Style Transfer with Diffusion Models/main.md)                                      | Style Transfer           | CVPR 2022  | 22.11  |    |
+| [Inversion-based_StyleTransfer](./Generative/Inversion-based_StyleTransfer/main.md)                                      | Style Transfer           | CVPR 2022  | 22.11  |    |
 | [Rein: Harnessing Visionss Foundation Models](./DomainGeneralization/Rein/main.md)                                                              | DGSS                     | CVPR 2024  | 23.12  |    |
 | [StyleDiffusion: Controllable Disentangled Style Transfer via Diffusion Models](./Generative/StyleDiffusion/main.md)                            | Style Transfer           | ICCV 2023  | 23.08  |    |
 | HyperNetworks                                                                                                                                   |                          |            |        |    |
