@@ -49,6 +49,10 @@ AE는 content preserving에 강하고, CLIP은 semantically meaningful이 강하
 * 이 논문에서는 디코더로 Imagen사용했지만 SD나 Midjourney와 같은 모델들을 사용할 수도 있다. 즉 디코더에 overfitting되지 않는다.   
 * 정량적인 평가 : 이미지 -> 인코더 (De-Diffusion or 기존 captioner) -> text, caption -> 생성모델 (디코더와 다른 모델) -> FID  
   * ![img_3.png](img_3.png)  
+###
+* ablation study
+  * ![img_8.png](img_8.png)
+###
 * supervise로 학습한게 아니다보니 GT보다 더 풍부한 표현력을 보여주고 있고 이로 인해 더 구체적으로 생성되는 결과를 확인할 수 있다.  
   * ![img_4.png](img_4.png)  
   * ![img_5.png](img_5.png)  
