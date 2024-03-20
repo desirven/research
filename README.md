@@ -57,6 +57,7 @@
 | [StyleDiffusion: Controllable Disentangled Style Transfer via Diffusion Models](./Generative/StyleDiffusion/main.md)                            | Style Transfer           | ICCV 2023  | 23.08  |    |
 | [De-Diffusion Makes Text a Strong Cross-Modal Interface](./Generative/De-Diffusion/main.md)                                                     | Image Captioning         | CVPR 2024  | 23.11  |     |
 | [Matryoshka diffusion Models](./Generative/Matryoshka_Diffusion_Models/main.md)                                                                 | High-resolution          | ICLR 2024  | 23.10  |     |
+| [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](./LargeLangeageModels/Chain-of-Thought/main.md)                         | LLM Prompting            | NIPS 2022  | 22.01  |     |
 | HyperNetworks                                                                                                                                   |                          |            |        |    |
 | Prompt-to-Prompt                                                                                                                                |                          |            |        |    |
 | EDICT                                                                                                                                           |                          |            |        |    |
