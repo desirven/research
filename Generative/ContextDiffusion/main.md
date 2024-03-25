@@ -10,7 +10,7 @@ Reverse Process (=Denoising process)에서는 text를 고려하고 있지만 For
 ###
 ## Method
 ### Cross-Modal Contextualized Diffusion  
-![img_1.png](img_1.png)  
+![img_1.png](img_1.png)
 ####
 Relational Network는 두 modal을 align하는 구조를 사용한다.(cross-attention)  
 x0와 같은 크기의 bias항을 출력해서 condition에 cross-modal context를 더해준다.  
@@ -21,7 +21,6 @@ k는 알파에 의한 스케줄링된 값이다.
 ####
 ![img_4.png](img_4.png)  
 forward를 이렇게 정의한다.  
-![img_6.png](img_6.png)  
 ####
 이를 통해서 t>1에 대한 forward의 posterior를 아래와 같이 구할 수 있다.
 ![img_5.png](img_5.png)  
