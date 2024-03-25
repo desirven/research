@@ -90,9 +90,16 @@ Q=[Q1,..., Qh], K = [K1,..., Kh]
 ##
 ## Experiments  
 
-![img_16.png](img_16.png)
-* Linear Probing: 영상 데이터로 backbone pre-train > head 추가해서 Imagenet, Pascal-VOC로 head만 fine-tuning  
-* CorLoc: correct localization  
+![img_16.png](img_16.png)   
 * k: 랜덤 선택한 object 개수, k가 클수록 작은 객체에 대해서 평가해야하기 때문에 감소함
-
-
+* SK를 쓰지 않아도 준수한 성능이 나온다. 결국 object masking한 것이 성능향상에 더 크게 기여한 것이다.  
+####
+![img_17.png](img_17.png)  
+* WT_venice: 영상 1개만 사용, 하나씩 다 실험해봤을 때 venice만 사용한 결과가 가장 좋았다고 appendix에 있음
+####
+![img_18.png](img_18.png)  
+####                       
+![img_19.png](img_19.png)  
+WT_all이 영상 10개짜리니까 WT_venice의 단순히 10배정도 되는데 성능 향상의 폭이 크지 않다.
+####
+![img_20.png](img_20.png)
