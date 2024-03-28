@@ -60,6 +60,7 @@
 | [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](./LargeLangeageModels/Chain-of-Thought/main.md)                         | LLM Prompting               | NIPS 2022  | 22.01  |     |
 | [Compositional Text-to-Image Synthesis with Attention Map Control of Diffusion  Models](./Generative/BoxNet/main.md)                            | attetnion control           |            | 23.05  |     |
 | [Is ImageNet worth 1 video? Learning strong image encoders from 1 long unlabelled video](./Self-Supervised/DoRA/main.md)                        | self-supervised using video | ICLR 2024  | 23.10  |     |
+| [Erasing Concepts from Diffusion Models](./Generative/Erased_StableDiffusion/main.md)                                                           | undesirable image removal   | ICCV 2023  | 23.03  |     |
 | HyperNetworks                                                                                                                                   |                             |            |        |    |
 | Prompt-to-Prompt                                                                                                                                |                             |            |        |    |
 | EDICT                                                                                                                                           |                             |            |        |    |
