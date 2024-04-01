@@ -61,7 +61,8 @@
 | [Compositional Text-to-Image Synthesis with Attention Map Control of Diffusion  Models](./Generative/BoxNet/main.md)                            | attetnion control           |            | 23.05  |     |
 | [Is ImageNet worth 1 video? Learning strong image encoders from 1 long unlabelled video](./Self-Supervised/DoRA/main.md)                        | self-supervised using video | ICLR 2024  | 23.10  |     |
 | [Erasing Concepts from Diffusion Models](./Generative/Erased_StableDiffusion/main.md)                                                           | undesirable image removal   | ICCV 2023  | 23.03  |     |
-| [Is Synthetic Data form Generative Models Ready for Image Recognition?](/Generative/SyntheticData_Ready_for_ImageRcognition?/main.md)           | Sythetic data               | ICLR 2023  | 22.10  |     |
+| [Is Synthetic Data form Generative Models Ready for Image Recognition?](./Generative/SyntheticData_Ready_for_ImageRcognition?/main.md)          | Sythetic data               | ICLR 2023  | 22.10  |     |
+| [DatasetDM: Synthesizing Data with Perception Annotations Using Diffusion Models](./Generative/DatasetDM/main.md)                               | Sythetic data               | NIPS 2023  | 23.08  |     |
 | HyperNetworks                                                                                                                                   |                             |            |        |    |
 | Prompt-to-Prompt                                                                                                                                |                             |            |        |    |
 | EDICT                                                                                                                                           |                             |            |        |    |
