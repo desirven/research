@@ -63,6 +63,7 @@
 | [Erasing Concepts from Diffusion Models](./Generative/Erased_StableDiffusion/main.md)                                                           | undesirable image removal   | ICCV 2023  | 23.03  |     |
 | [Is Synthetic Data form Generative Models Ready for Image Recognition?](./Generative/SyntheticData_Ready_for_ImageRcognition?/main.md)          | Sythetic data               | ICLR 2023  | 22.10  |     |
 | [DatasetDM: Synthesizing Data with Perception Annotations Using Diffusion Models](./Generative/DatasetDM/main.md)                               | Sythetic data               | NIPS 2023  | 23.08  |     |
+| [GeoDiffusion: text-prompted Geometric control for Object Detection Data Generation](./Generative/GeoDiffusion/main.md)                         | Sythetic data               | ICLR 2024  | 23.06  |     |
 | HyperNetworks                                                                                                                                   |                             |            |        |    |
 | Prompt-to-Prompt                                                                                                                                |                             |            |        |    |
 | EDICT                                                                                                                                           |                             |            |        |    |
