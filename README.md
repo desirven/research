@@ -67,6 +67,7 @@
 | [Prompt-to-Prompt Image Editing with Cross-Attention Control](./Generative/Prompt-to-Prompt/main.md)                                            | Text-to-Image Editing       | ICLR 2022  | 22.08  |    |
 | [Learning Transferable Visual Models From Natural Language Supervision](./Generative/CLIP/main.md)                                              | VLM                         | ICML 2021  | 21.03  |     |
 | [Visual Instruction Tuning](./VLM/LLAVA/main.md)                                                                                                | VLM                         | NIPS 2023  | 23.04  |     |
+| [LayoutTransformer: Layout Generation and Completion with Self-attention](./LayoutGeneration/LayoutTransformer/main.md)                         | Layout Generation           | ICCV 2020  | 20.06  |     |
 | EDICT                                                                                                                                           |                             |            |        |    |
 | Null-text Inversion                                                                                                                             |                             |            |        |    |
 | Fader Networks                                                                                                                                  |                             |            |        |    |
