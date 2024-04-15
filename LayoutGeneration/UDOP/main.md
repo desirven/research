@@ -1,6 +1,6 @@
 Unifying Vision, Text, and Layout for Universal Document Processing
 ===
-CVPR 2022 / arxiv 22.12 / 50 Citations (24.04.13)
+CVPR 2023 / arxiv 22.12 / 50 Citations (24.04.13)
 ####
 ## Introduction  
 Document Understanding은 기호, 그림, 스타일과 같은 시각 정보와 함께텍스트 내용을 인식하는 멀티모달 task이다.  
@@ -60,7 +60,10 @@ T5의 relative attention bias를 2차원으로 확장하여 수평,수직 거리
 * Masked Image Reconstruction with Text and Layout   
   ![img_7.png](img_7.png)
   * MAE에서 2가지를 변경한다.  
-  > 이 부붙 다시 확인
+    * textual content는 대부분 알파벳, 숫자, 문장부호에 들어있다.
+    * 그러니 각 character마다 정보를 넣어주면 vision generation에 도움이 된다.
+      * 이를 위해 각 알파벳, 숫자, 문장부호에 대한 learnable embedding을 선언하여 같이 사용한다.
+    * 그리고 MAE에 cross-attention을 추가하여 unified encoder에서 나온 feature와 character embedding을 참조하도록 한다.
 
 ### Supervised Pretraining Tasks
 ![img_8.png](img_8.png)  

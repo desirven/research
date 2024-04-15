@@ -69,6 +69,7 @@
 | [Visual Instruction Tuning](./VLM/LLAVA/main.md)                                                                                                | VLM                         | NIPS 2023  | 23.04  |     |
 | [LayoutTransformer: Layout Generation and Completion with Self-attention](./LayoutGeneration/LayoutTransformer/main.md)                         | Layout Generation           | ICCV 2020  | 20.06  |     |
 | [BLT: Bidirectional Layout Transformer for Controllable Layout Generation](./LayoutGeneration/BLT/main.md)                                      | Layout Generation           | ECCV 2021  | 21.12  |     |
+| [Unifying Vision, Text, and Layout for Universal Document Processing](./LayoutGeneration/UDOP/main.md)                                          | Layout Foundation Model     | CVPR 2023  | 22.12  |     |
 | EDICT                                                                                                                                           |                             |            |        |    |
 | Null-text Inversion                                                                                                                             |                             |            |        |    |
 | Fader Networks                                                                                                                                  |                             |            |        |    |
