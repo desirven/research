@@ -65,7 +65,7 @@
 | [GeoDiffusion: text-prompted Geometric control for Object Detection Data Generation](./Generative/GeoDiffusion/main.md)                         | Sythetic data               | ICLR 2024  | 23.06  |     |
 | HyperNetworks                                                                                                                                   |                             |            |        |    |
 | [Prompt-to-Prompt Image Editing with Cross-Attention Control](./Generative/Prompt-to-Prompt/main.md)                                            | Text-to-Image Editing       | ICLR 2022  | 22.08  |    |
-| [Learning Transferable Visual Models From Natural Language Supervision](./Generative/CLIP/main.md)                                              | VLM                         | ICML 2021  | 21.03  |     |
+| [Learning Transferable Visual Models From Natural Language Supervision](./VLM/CLIP/main.md)                                                     | VLM                         | ICML 2021  | 21.03  |     |
 | [Visual Instruction Tuning](./VLM/LLAVA/main.md)                                                                                                | VLM                         | NIPS 2023  | 23.04  |     |
 | [LayoutTransformer: Layout Generation and Completion with Self-attention](./LayoutGeneration/LayoutTransformer/main.md)                         | Layout Generation           | ICCV 2020  | 20.06  |     |
 | [BLT: Bidirectional Layout Transformer for Controllable Layout Generation](./LayoutGeneration/BLT/main.md)                                      | Layout Generation           | ECCV 2021  | 21.12  |     |
