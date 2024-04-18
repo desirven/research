@@ -93,7 +93,7 @@
 | GLIP v2                                                                                                                                         |                             |            |        |    |
 | Generative Modeling by Estimating Gradients of the Data Distribution                                                                            |                             |            |        |    |
 | LoRA                                                                                                                                            |                             |            |        |    |
-| IMAGEN:Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding                                                           |                             |            |        |    |
+| IMAGEN:Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding                                                           | text-to-image               | NIPS 2022  | 22.05  |    |
 | An Edit Friendly DDPM Noise Space: Inversion and Manipulations                                                                                  |                             |            |        |    |
 | Unifying Diffusion Models' Latent Space, with Applications to CycleDiffusion and Guidance                                                       |                             |            |        |    |
 | AnyDoor                                                                                                                                         |                             |            |        |    |
