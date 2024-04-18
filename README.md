@@ -71,7 +71,6 @@
 | [BLT: Bidirectional Layout Transformer for Controllable Layout Generation](./LayoutGeneration/BLT/main.md)                                      | Layout Generation           | ECCV 2021  | 21.12  |     |
 | [Unifying Vision, Text, and Layout for Universal Document Processing](./LayoutGeneration/UDOP/main.md)                                          | Layout Foundation Model     | CVPR 2023  | 22.12  |     |
 | EDICT                                                                                                                                           |                             |            |        |    |
-| Null-text Inversion                                                                                                                             |                             |            |        |    |
 | Fader Networks                                                                                                                                  |                             |            |        |    |
 | MasaCtrl                                                                                                                                        |                             |            |        |    |
 | On Distillation of Guided Diffusion Models                                                                                                      |                             |            |        |    |
@@ -94,7 +93,7 @@
 | GLIP v2                                                                                                                                         |                             |            |        |    |
 | Generative Modeling by Estimating Gradients of the Data Distribution                                                                            |                             |            |        |    |
 | LoRA                                                                                                                                            |                             |            |        |    |
-| IMAGEN</br>Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding                                                       |                             |            |        |    |
+| IMAGEN:Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding                                                           |                             |            |        |    |
 | An Edit Friendly DDPM Noise Space: Inversion and Manipulations                                                                                  |                             |            |        |    |
 | Unifying Diffusion Models' Latent Space, with Applications to CycleDiffusion and Guidance                                                       |                             |            |        |    |
 | AnyDoor                                                                                                                                         |                             |            |        |    |
