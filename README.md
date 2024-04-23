@@ -90,7 +90,7 @@
 | LDM                                                                                                                                             |                             |            |        |    |
 | StableRep                                                                                                                                       |                             |            |        |    |
 | ImageBrush                                                                                                                                      |                             |            |        |    |
-| GLIP v2                                                                                                                                         |                             |            |        |    |
+| [GLIPv2: Unifying Localization and Vision-Language Understanding](./VLM/GLIPv2/main.md)                                                         | multi modal OD              | NIPS 2022  | 22.06  |    |
 | Generative Modeling by Estimating Gradients of the Data Distribution                                                                            |                             |            |        |    |
 | LoRA                                                                                                                                            |                             |            |        |    |
 | [IMAGEN:Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding](./Generative/IMAGEN/main.md)                            | text-to-image               | NIPS 2022  | 22.05  |    |
