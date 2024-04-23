@@ -75,7 +75,7 @@
 | MasaCtrl                                                                                                                                        |                             |            |        |    |
 | On Distillation of Guided Diffusion Models                                                                                                      |                             |            |        |    |
 | Classifier-Free Diffusoin Guidance                                                                                                              |                             |            |        |    |
-| GLIP                                                                                                                                            |                             |            |        |    |
+| [GLIP : Grounded Language Image Pretraining](./VLM/GLIP/main.md)                                                                                | multi modal OD              | CVPR 2021  | 21.12  |    |
 | Generate Anything Anywhere in Any Scene                                                                                                         |                             |            |        |    |
 | Semantic Object Accuracy for Generative Text-to-Image Synthesis                                                                                 |                             |            |        |    |
 | GLIGEN                                                                                                                                          |                             |            |        |    |
