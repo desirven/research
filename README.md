@@ -78,7 +78,7 @@
 | [GLIP : Grounded Language Image Pretraining](./VLM/GLIP/main.md)                                                                                | multi modal OD              | CVPR 2021  | 21.12  |    |
 | Generate Anything Anywhere in Any Scene                                                                                                         |                             |            |        |    |
 | Semantic Object Accuracy for Generative Text-to-Image Synthesis                                                                                 |                             |            |        |    |
-| GLIGEN                                                                                                                                          |                             |            |        |    |
+| [GLIGEN: Open-Set Grounded Text-to-Image Generation](./Generative/GLIGEN/main.md)                                                               | Generative                  | CVPR 2023     | 23.01  |    |
 | JourneyDB                                                                                                                                       |                             |            |        |    |
 | Drag Your GAN                                                                                                                                   |                             |            |        |    |
 | DragDiffusion                                                                                                                                   |                             |            |        |    |
