@@ -1,6 +1,6 @@
 LayoutTransformer: Layout Generation and Completion with Self-attention 
 ===
-ICCV 2020 / arxiv 20.06 / 78 Citations (24.04.12)
+ICCV 2021 / arxiv 20.06 / 78 Citations (24.04.12)
 ####
 ## Introduction
 사람이 시각적인 인지를 하는 것에는 두가지 요소가 있다. 

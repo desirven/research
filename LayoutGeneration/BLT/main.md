@@ -1,6 +1,6 @@
 BLT: Bidirectional Layout Transformer for Controllable Layout Generation
 ===
-ECCV 2021 / arxiv 21.12 / 46 Citations (24.04.12)
+ECCV 2022 / arxiv 21.12 / 46 Citations (24.04.12)
 ####
 ## Introduction
 기존 Layout Transformer 논문은 primitive의 순서에 제한이 있기 때문에 conditional한 생성이 어렵다.  
