@@ -79,16 +79,16 @@
 | Generate Anything Anywhere in Any Scene                                                                                                         |                             |            |        |    |
 | Semantic Object Accuracy for Generative Text-to-Image Synthesis                                                                                 |                             |            |        |    |
 | [GLIGEN: Open-Set Grounded Text-to-Image Generation](./Generative/GLIGEN/main.md)                                                               | Generative                  | CVPR 2023     | 23.01  |    |
-| JourneyDB                                                                                                                                       |                             |            |        |    |
-| Drag Your GAN                                                                                                                                   |                             |            |        |    |
-| DragDiffusion                                                                                                                                   |                             |            |        |    |
-| DragonDiffusion                                                                                                                                 |                             |            |        |    |
-| CLIP know about a red circle?                                                                                                                   |                             |            |        |    |
-| ReVersion                                                                                                                                       |                             |            |        |    |
-| BERT score                                                                                                                                      |                             |            |        |    |
-| Evaluating and Improving Factuality in Multimodal Abstractive Summarization                                                                     |                             |            |        |    |
-| LDM                                                                                                                                             |                             |            |        |    |
-| StableRep                                                                                                                                       |                             |            |        |    |
+| [JourneyDB](./Generative/JourneyDB/main.md)                                                                                                     |                             |            |        |    |
+| [Drag Your GAN](./Generative/DragGAN/main.md)                                                                                                   |                             |            |        |    |
+| [DragDiffusion](./Genrative/DragDiffusion/main.md)                                                                                              |                             |            |        |    |
+| [DragonDiffusion](./Genrative/DragonDiffusion/main.md)                                                                                          |                             |            |        |    |
+| [CLIP know about a red circle?](./VLM/CLIP_RedCircle/main.md)                                                                                   |                             |            |        |    |
+| [ReVersion](./Genrative/Reversion/main.md)                                                                                                      |                             |            |        |    |
+| [BERT score](./LLM/BertScore/main.md)                                                                                                           |                             |            |        |    |
+| [Evaluating and Improving Factuality in Multimodal Abstractive Summarization](./VLM/CLIPBERTscore/main.md)                                      |                             |            |        |    |
+| [High-Resolution Image Synthesis with Latent Diffusion Models](./Generative/LDM/main.md)                                                        |                             |            |        |    |
+| [StableRep: Synthetic Images from Text-to-Image Models Make Strong Visual Representation Learners](./Generative/StableRep)                      |                             |            |        |    |
 | ImageBrush                                                                                                                                      |                             |            |        |    |
 | [GLIPv2: Unifying Localization and Vision-Language Understanding](./VLM/GLIPv2/main.md)                                                         | multi modal OD              | NIPS 2022  | 22.06  |    |
 | Generative Modeling by Estimating Gradients of the Data Distribution                                                                            |                             |            |        |    |
