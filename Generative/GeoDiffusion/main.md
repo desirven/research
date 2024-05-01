@@ -1,6 +1,5 @@
 GeoDiffusion: text-prompted Geometric control for Object Detection Data Generation
 ===
-(구조조정으로 타노스당해서 당분간 세미나할 시간 없음... 그래도 읽은 논문 간단하게 정리...)
 
 ICLR 2024 / arxiv 23.06
 ####
