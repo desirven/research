@@ -109,8 +109,8 @@
 | Clipscore                                                                                                                                       |                             |            |        |    |
 | SmartBrush                                                                                                                                      |                             |            |        |    |
 | ILVR                                                                                                                                            |                             |            |        |    |
-| [BK-SDM: Architecturally Compressed Stable Diffusion for Efficient Text-to-Image Generation](./Quantization/BK-SDE/main.md)                     | Diffusion Quantization      | ICML 2023  | 23.05  |    |
-|                                                                                                                                                 |                             |            |        |     |
+| [BK-SDM: Architecturally Compressed Stable Diffusion for Efficient Text-to-Image Generation](Lightweighting Diffusion/BK-SDE/main.md)           | Lightweighting Diffusion      | ICML 2023  | 23.05  |    |
+| [EdgeFusion: On-Device Text-to-Image Generation](Lightweighting Diffusion/EdgeFusion/main.md)                                                   | Lightweighting Diffusion   |            | 24.04  |     |
 |                                                                                                                                                 |                             |            |        |     |
 |                                                                                                                                                 |                             |            |        |     |
 |                                                                                                                                                 |                             |            |        |     |
