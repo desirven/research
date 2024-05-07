@@ -78,7 +78,7 @@
 | [GLIP : Grounded Language Image Pretraining](./VLM/GLIP/main.md)                                                                                | multi modal OD              | CVPR 2021  | 21.12  |    |
 | Generate Anything Anywhere in Any Scene                                                                                                         |                             |            |        |    |
 | Semantic Object Accuracy for Generative Text-to-Image Synthesis                                                                                 |                             |            |        |    |
-| [GLIGEN: Open-Set Grounded Text-to-Image Generation](./Generative/GLIGEN/main.md)                                                               | Generative                  | CVPR 2023     | 23.01  |    |
+| [GLIGEN: Open-Set Grounded Text-to-Image Generation](./Generative/GLIGEN/main.md)                                                               | Generative                  | CVPR 2023  | 23.01  |    |
 | [JourneyDB](./Generative/JourneyDB/main.md)                                                                                                     |                             |            |        |    |
 | [Drag Your GAN](./Generative/DragGAN/main.md)                                                                                                   |                             |            |        |    |
 | [DragDiffusion](./Genrative/DragDiffusion/main.md)                                                                                              |                             |            |        |    |
@@ -109,4 +109,10 @@
 | Clipscore                                                                                                                                       |                             |            |        |    |
 | SmartBrush                                                                                                                                      |                             |            |        |    |
 | ILVR                                                                                                                                            |                             |            |        |    |
-|                                                                                                                                                 |                             |            |        |    |
+| [BK-SDM: Architecturally Compressed Stable Diffusion for Efficient Text-to-Image Generation](./Quantization/BK-SDE/main.md)                     | Diffusion Quantization      | ICML 2023  | 23.05  |    |
+|                                                                                                                                                 |                             |            |        |     |
+|                                                                                                                                                 |                             |            |        |     |
+|                                                                                                                                                 |                             |            |        |     |
+|                                                                                                                                                 |                             |            |        |     |
+
+
