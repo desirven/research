@@ -1,8 +1,11 @@
 ## 읽은 논문에 대해서 매일 준비한 세미나 발표자료
 ### contribution 위주로 정리
-
+---
+1. 목록에는 있는데 내용이 없는 것은 JIRA에서 정리된 내용을 옮기지 못한 것입니다.
+2. > 이렇게 인용으로 표기된 내용은 논문의 내용이 아닌 제 해석입니다.
+3. 잘못된 내용에 대한 피드백은 언제든지 대환영입니다. (desirven84@gmail.com)
 ------
-## Done (내용이 없는 것은 JIRA에서 옮겨와야하는 것들)
+## Done
 | Name                                                                                                                                              | Keyword                     | Publish    | arxiv  | ... |
 |---------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|------------|--------|----|
 | [GLIDE](./Generative/GLIDE/GLIED.md)                                                                                                              | Inpainting                  | ICML 2021  | 21.12  |    |
@@ -112,7 +115,7 @@
 | [BK-SDM: Architecturally Compressed Stable Diffusion for Efficient Text-to-Image Generation](./Generative/LightweightingDiffusion/BK-SDM/main.md) | Lightweighting Diffusion    | ICML 2023  | 23.05  |    |
 | [EdgeFusion: On-Device Text-to-Image Generation](./Generative/LightweightingDiffusion/EdgeFusion/main.md)                                         | Lightweighting Diffusion    |            | 24.04  |     |
 | [Paint by Inpaint: Learning to Add Image Objects by Remobing Them First](./Generative/Paint_by_Inpaint/main.md)                                   | instruct based editing      |            | 24.04  |     |
-|                                                                                                                                                   |                             |            |        |     |
+| [StoryDiffusion: Consistent Self-attention for Long-range Image and Video Generation](./Generative/StoryDiffusion/main.md)                        | consistent generation       |            | 24.05  |     |
 |                                                                                                                                                   |                             |            |        |     |
 
 
