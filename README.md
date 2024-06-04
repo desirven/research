@@ -116,6 +116,6 @@
 | [EdgeFusion: On-Device Text-to-Image Generation](./Generative/LightweightingDiffusion/EdgeFusion/main.md)                                         | Lightweighting Diffusion    |            | 24.04  |     |
 | [Paint by Inpaint: Learning to Add Image Objects by Remobing Them First](./Generative/Paint_by_Inpaint/main.md)                                   | instruct based editing      |            | 24.04  |     |
 | [StoryDiffusion: Consistent Self-attention for Long-range Image and Video Generation](./Generative/StoryDiffusion/main.md)                        | consistent generation       |            | 24.05  |     |
-|                                                                                                                                                   |                             |            |        |     |
+| [Customizing Text-to-Image Models with a Single Image Pair](./Generative/PairCustomization/main.md)                                               | Style transfer              |            | 24.05  |     |
 
 
