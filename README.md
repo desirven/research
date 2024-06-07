@@ -117,5 +117,6 @@
 | [Paint by Inpaint: Learning to Add Image Objects by Remobing Them First](./Generative/Paint_by_Inpaint/main.md)                                   | instruct based editing      |            | 24.04  |     |
 | [StoryDiffusion: Consistent Self-attention for Long-range Image and Video Generation](./Generative/StoryDiffusion/main.md)                        | consistent generation       |            | 24.05  |     |
 | [Customizing Text-to-Image Models with a Single Image Pair](./Generative/PairCustomization/main.md)                                               | Style transfer              |            | 24.05  |     |
+| [Visual Fact checker: Enabling High-Fidelity Detailed Caption Generation](./Generative/Visual_Fact_Checker/main.md)                               | Captioning                  |            | 24.04  |     |
 
 
