@@ -1,7 +1,7 @@
 You Only Look Once: Unified, Real-Time Object Detection
 ===
 CVPR 2015 / arxiv 15.06
-###
+### Introduction
 * Classification으로 문제를 풀었던 R-CNN계열 대신 Regression으로 문제를 정의하여 bbox와 class확률을 직접 예측
 * 속도 향상
 * 배경 오류 감소
