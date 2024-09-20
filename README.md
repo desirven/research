@@ -125,6 +125,6 @@
 | [YOLOv3: An Incremental Improvement](./ObjectDetection/YOLOv3/main.md)                                                                            | Object Detection            |            | 18.04  |               |
 | [Magic Fixup: Streamlining Photo Editing by Watching Dynamic Videos](./Generative/MagicFixup/main.md)                                             | Image editing               |            | 24.03  |               |
 | [Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model](./Generative/Transfusion/main.md)                             | Cross-modal Generation      |            | 24.08  |               |
-| []()                                                                                                                                              |                             |            |        |               |
+| [Can OOD Object Detectors Learn from Fundation Models?](./Generative/SyncOOD/main.md)                                                             | OOD                         |            | 24.09  |               |
 ----------------------------------------------------------------
 | []()                                                                                                                                              |                             |            |        |               |
