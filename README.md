@@ -131,7 +131,7 @@
 | [ADD-IT: Training-Free Object Insertion in Images with Pretrained Diffusion Models](./Generative/ADD-IT/main.md)                                  | Image Insertion             |            | 24.11  | NVIDIA        |
 | [DetDiffusion: Synergizing Generative and Perceptive Models for Enhanced Data Generation and Perception](./Generative/DetDiffusion/main.md)                                  | Data Generation for OD             |CVPR 2024            | 24.03    |         |
 | [EraseDraw: Learning to Inser Objects by Erasing Them from Images](./Generative/EraseDraw/main.md) | Instruct                              | ECCV 2024           |  24.09      |               |
-| []()    |                             |            |        |               |
+| [Low-Rank Few-Shot Adaptation of Vision-Language Models](./VLM/CLIP-LoRA/main.md)    | CVPR 2024                            |  24.05          |        |               |
 | []()    |                             |            |        |               |
 | []()    |                             |            |        |               |
 | []()    |                             |            |        |               |
