@@ -129,5 +129,11 @@
 | [TextBoost: Towards One-Shot Personalization of Text-to-Image Models via Fine-tuning Text Encoder](./Generative/TextBoost/main.md)                | Personalization             |            | 24.09  |               |
 | [Imagine yourself: Tuning-Free Personalized Image Generation](./Generative/ImagineYourself/main.md)                                               | Personalization             |            | 24.09  |               |
 | [ADD-IT: Training-Free Object Insertion in Images with Pretrained Diffusion Models](./Generative/ADD-IT/main.md)                                  | Image Insertion             |            | 24.11  | NVIDIA        |
+| [DetDiffusion: Synergizing Generative and Perceptive Models for Enhanced Data Generation and Perception](./Generative/DetDiffusion/main.md)                                  | Data Generation for OD             |CVPR 2024            | 24.03    |         |
+| []()                                                                                                                                              |                             |            |        |               |
+| []()                                                                                                                                              |                             |            |        |               |
+| []()                                                                                                                                              |                             |            |        |               |
+| []()                                                                                                                                              |                             |            |        |               |
+
 ----------------------------------------------------------------
 | []()                                                                                                                                              |                             |            |        |               |
