@@ -133,7 +133,7 @@
 | [EraseDraw: Learning to Inser Objects by Erasing Them from Images](./Generative/EraseDraw/main.md) | Instruct                              | ECCV 2024           |  24.09      |               |
 | [Low-Rank Few-Shot Adaptation of Vision-Language Models](./VLM/CLIP-LoRA/main.md)    | CVPR 2024                            |  24.05          |        |               |
 | [BrushNet: A Plug-and-Play Image Inpainting Model with Decomposed Dual-Branch Diffusion](./Generative/BrushNet/main.md)    | Inpainting                            |  ECCV 2024          | 24.03       |               |
-| []()    |                             |            |        |               |
+| [Large-Scale Text-to-Image Model with Inpainting is a Zero-Shot Subject-Driven Image Generator](./Generative/Diptych_Prompting/main.md)    |   Subject driven Inpainting    |            |  24.11      |               |
 | []()    |                             |            |        |               |
 | []()    |                             |            |        |               |
 | []()    |                             |            |        |               |
