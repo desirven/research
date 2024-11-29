@@ -132,7 +132,7 @@
 | [DetDiffusion: Synergizing Generative and Perceptive Models for Enhanced Data Generation and Perception](./Generative/DetDiffusion/main.md)                                  | Data Generation for OD             |CVPR 2024            | 24.03    |         |
 | [EraseDraw: Learning to Inser Objects by Erasing Them from Images](./Generative/EraseDraw/main.md) | Instruct                              | ECCV 2024           |  24.09      |               |
 | [Low-Rank Few-Shot Adaptation of Vision-Language Models](./VLM/CLIP-LoRA/main.md)    | CVPR 2024                            |  24.05          |        |               |
-| []()    |                             |            |        |               |
+| [BrushNet: A Plug-and-Play Image Inpainting Model with Decomposed Dual-Branch Diffusion](./Generative/BrushNet/main.md)    | Inpainting                            |  ECCV 2024          | 24.03       |               |
 | []()    |                             |            |        |               |
 | []()    |                             |            |        |               |
 | []()    |                             |            |        |               |
