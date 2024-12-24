@@ -134,7 +134,7 @@
 | [Low-Rank Few-Shot Adaptation of Vision-Language Models](./VLM/CLIP-LoRA/main.md)    | CVPR 2024                            |  24.05          |        |               |
 | [BrushNet: A Plug-and-Play Image Inpainting Model with Decomposed Dual-Branch Diffusion](./Generative/BrushNet/main.md)    | Inpainting                            |  ECCV 2024          | 24.03       |               |
 | [Large-Scale Text-to-Image Model with Inpainting is a Zero-Shot Subject-Driven Image Generator](./Generative/Diptych_Prompting/main.md)    |   Subject driven Inpainting    |            |  24.11      |               |
-| []()    |                             |            |        |               |
+| [GlyphDraw: Seamlessly Rendering Text with Intricate Spatial Structures in Text-to-Image Generation](./Generative/GlyphDraw/main.md)    | Visual Text Generation                             |            |  23.03      |               |
 | []()    |                             |            |        |               |
 | []()    |                             |            |        |               |
 ----------------------------------------------------------------
