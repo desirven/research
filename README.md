@@ -136,6 +136,6 @@
 | [Large-Scale Text-to-Image Model with Inpainting is a Zero-Shot Subject-Driven Image Generator](./Generative/Diptych_Prompting/main.md)    |   Subject driven Inpainting    |            |  24.11      |               |
 | [GlyphDraw: Seamlessly Rendering Text with Intricate Spatial Structures in Text-to-Image Generation](./Generative/GlyphDraw/main.md)    | Visual Text Generation                             |            |  23.03      |               |
 | [One-Step Image Translation with Text-to-Image Models](./Generative/Img2ImgeTurbo/main.md)    | Unsupervied Image2Image translation                        |            |    24.03    |               |
-| []()    |                             |            |        |               |
+| [Diffuse to Choose: Enriching Image Conditioned Inpainting in Latent Diffusion Models for Virtual Try-All](./Generative/Diffuse_to_Choose/main.md)    |  subject guided inpainting                           |            |   24.01     |   Amazon            |
 ----------------------------------------------------------------
 | []()                                                                                                                                              |                             |            |        |               |
