@@ -137,5 +137,9 @@
 | [GlyphDraw: Seamlessly Rendering Text with Intricate Spatial Structures in Text-to-Image Generation](./Generative/GlyphDraw/main.md)    | Visual Text Generation                             |            |  23.03      |               |
 | [One-Step Image Translation with Text-to-Image Models](./Generative/Img2ImgeTurbo/main.md)    | Unsupervied Image2Image translation                        |            |    24.03    |               |
 | [Diffuse to Choose: Enriching Image Conditioned Inpainting in Latent Diffusion Models for Virtual Try-All](./Generative/Diffuse_to_Choose/main.md)    |  subject guided inpainting                           |            |   24.01     |   Amazon            |
+| [CycleNet: Rethinking Cycle Consistency in Text-guided Diffusion for Image Manipulation](./Generative/CycleNet/main.md)               | unpaired img2img translation  |  NIPS 2023   |  23.10      |               |
+
+
+
 ----------------------------------------------------------------
-| []()                                                                                                                                              |                             |            |        |               |
+| [abc](.///main.md)               | task  |  aaaa 2023   |  20.00    |               |
