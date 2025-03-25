@@ -1,9 +1,7 @@
 ## 읽은 논문에 대해서 매일 준비한 세미나 발표자료
 ### contribution 위주로 정리
 ---
-1. 목록에는 있는데 내용이 없는 것은 JIRA에서 정리된 내용을 옮기지 못한 것입니다.
-2. > 이렇게 인용으로 표기된 내용은 논문의 내용이 아닌 제 해석입니다.
-3. 잘못된 내용에 대한 피드백은 언제든지 대환영입니다. (desirven84@gmail.com)
+# 정리 페이지 Notion으로 이전 (leesuhyeong.notion.site/study)
 ------
 ## Done
 | Name                                                                                                                                              | Keyword                     | Publish    | arxiv  | ...           |
